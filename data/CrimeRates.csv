@@ -1,0 +1,260 @@
+Years,Crime,CO Number,CO Rate,US Number,US Rate,Which,Group Year
+1980,Homicide,,6.9,,,Violent,1980-1984
+1981,Homicide,,8.1,,,Violent,1980-1984
+1982,Homicide,,6,,,Violent,1980-1984
+1983,Homicide,,6.4,,,Violent,1980-1984
+1984,Homicide,,5.8,,,Violent,1980-1984
+1985,Homicide,,5.8,,,Violent,1985-1989
+1986,Homicide,,7,,,Violent,1985-1989
+1987,Homicide,,5.8,,,Violent,1985-1989
+1988,Homicide,,5.7,,,Violent,1985-1989
+1989,Homicide,,4.4,,,Violent,1985-1989
+1990,Homicide,,4.2,,,Violent,1990-1994
+1991,Homicide,,5.9,,,Violent,1990-1994
+1992,Homicide,,6.2,,,Violent,1990-1994
+1993,Homicide,,5.8,,,Violent,1990-1994
+1994,Homicide,,5.4,,,Violent,1990-1994
+1995,Homicide,,5.8,21606,8.2,Violent,1995-1999
+1996,Homicide,,4.7,19645,7.4,Violent,1995-1999
+1997,Homicide,176,4.5,18208,6.8,Violent,1995-1999
+1998,Homicide,178,4.4,16974,6.3,Violent,1995-1999
+1999,Homicide,187,4.5,15522,5.7,Violent,1995-1999
+2000,Homicide,132,3,15586,5.5,Violent,2000-2004
+2001,Homicide,143,3.2,16037,5.6,Violent,2000-2004
+2002,Homicide,174,3.8,16229,5.6,Violent,2000-2004
+2003,Homicide,168,3.7,16528,5.7,Violent,2000-2004
+2004,Homicide,199,4.3,16148,5.5,Violent,2000-2004
+2005,Homicide,170,3.6,16740,5.6,Violent,2005-2009
+2006,Homicide,157,3.3,17309,5.8,Violent,2005-2009
+2007,Homicide,150,3.1,17128,5.7,Violent,2005-2009
+2008,Homicide,151,3,16465,5.4,Violent,2005-2009
+2009,Homicide,169,3.3,15399,5,Violent,2005-2009
+2010,Homicide,129,2.5,14722,4.8,Violent,2010-2014
+2011,Homicide,156,3,14661,4.7,Violent,2010-2014
+2012,Homicide,160,3.1,14856,4.7,Violent,2010-2014
+2013,Homicide,172,3.3,14319,4.5,Violent,2010-2014
+2014,Homicide,150,2.8,14164,4.4,Violent,2010-2014
+2015,Homicide,172,3.2,15696,4.9,Violent,2015-2019
+2016,Homicide,189,3.4,,,Violent,2015-2019
+1980,Rape,,52.5,,,Violent,1980-1984
+1981,Rape,,45.6,,,Violent,1980-1984
+1982,Rape,,44.5,,,Violent,1980-1984
+1983,Rape,,41.9,,,Violent,1980-1984
+1984,Rape,,39,,,Violent,1980-1984
+1985,Rape,,40.9,,,Violent,1985-1989
+1986,Rape,,42.3,,,Violent,1985-1989
+1987,Rape,,40.8,,,Violent,1985-1989
+1988,Rape,,38.6,,,Violent,1985-1989
+1989,Rape,,36.2,,,Violent,1985-1989
+1990,Rape,,46.2,,,Violent,1990-1994
+1991,Rape,,47,,,Violent,1990-1994
+1992,Rape,,47.3,,,Violent,1990-1994
+1993,Rape,,45.8,,,Violent,1990-1994
+1994,Rape,,43.2,,,Violent,1990-1994
+1995,Rape,,39.5,97470,37.1,Violent,1995-1999
+1996,Rape,,46.2,96252,36.3,Violent,1995-1999
+1997,Rape,1794,46.1,96153,35.9,Violent,1995-1999
+1998,Rape,1818,45.3,93144,34.5,Violent,1995-1999
+1999,Rape,1617,39,89411,32.8,Violent,1995-1999
+2000,Rape,1682,39.1,90178,32,Violent,2000-2004
+2001,Rape,1701,38.5,90863,31.8,Violent,2000-2004
+2002,Rape,1997,44.3,95235,33.1,Violent,2000-2004
+2003,Rape,1797,39.2,93883,32.3,Violent,2000-2004
+2004,Rape,1870,40.3,95089,32.4,Violent,2000-2004
+2005,Rape,1971,41.8,94347,31.8,Violent,2005-2009
+2006,Rape,2030,42.3,94472,31.6,Violent,2005-2009
+2007,Rape,1949,39.7,92160,30.6,Violent,2005-2009
+2008,Rape,2026,40.4,90750,29.8,Violent,2005-2009
+2009,Rape,2097,41.3,89241,29.1,Violent,2005-2009
+2010,Rape,2168,42,85593,27.7,Violent,2010-2014
+2011,Rape,2236,43.7,84175,27,Violent,2010-2014
+2012,Rape,2055,39.6,85141,27.1,Violent,2010-2014
+2013,Rape,2903,55.1,113695,35.9,Violent,2010-2014
+2014,Rape,2961,55.3,118027,37,Violent,2010-2014
+2015,Rape,3275,60.2,124047,38.6,Violent,2015-2019
+2016,Rape,3512,63.2,,,Violent,2015-2019
+1980,Robbery,,160.1,,,Violent,1980-1984
+1981,Robbery,,159.5,,,Violent,1980-1984
+1982,Robbery,,150.6,,,Violent,1980-1984
+1983,Robbery,,126.4,,,Violent,1980-1984
+1984,Robbery,,114,,,Violent,1980-1984
+1985,Robbery,,124.2,,,Violent,1985-1989
+1986,Robbery,,144.8,,,Violent,1985-1989
+1987,Robbery,,118.8,,,Violent,1985-1989
+1988,Robbery,,98.8,,,Violent,1985-1989
+1989,Robbery,,90,,,Violent,1985-1989
+1990,Robbery,,90.6,,,Violent,1990-1994
+1991,Robbery,,107.4,,,Violent,1990-1994
+1992,Robbery,,120.5,,,Violent,1990-1994
+1993,Robbery,,116.7,,,Violent,1990-1994
+1994,Robbery,,106.9,,,Violent,1990-1994
+1995,Robbery,,96.2,580509,220.9,Violent,1995-1999
+1996,Robbery,,98.2,535594,201.9,Violent,1995-1999
+1997,Robbery,3406,79.4,498534,186.2,Violent,1995-1999
+1998,Robbery,3187,79.4,447186,165.5,Violent,1995-1999
+1999,Robbery,3034,73.3,409371,150.1,Violent,1995-1999
+2000,Robbery,2926,68,408016,145,Violent,2000-2004
+2001,Robbery,3283,74.3,423557,148.5,Violent,2000-2004
+2002,Robbery,3445,76.4,420806,146.1,Violent,2000-2004
+2003,Robbery,3577,78.1,414235,142.5,Violent,2000-2004
+2004,Robbery,3637,78.3,401470,136.7,Violent,2000-2004
+2005,Robbery,3870,82,417438,140.8,Violent,2005-2009
+2006,Robbery,3780,78.7,449246,150,Violent,2005-2009
+2007,Robbery,3397,69.2,447324,148.3,Violent,2005-2009
+2008,Robbery,3186,63.6,443563,145.9,Violent,2005-2009
+2009,Robbery,3310,65.1,408742,133.1,Violent,2005-2009
+2010,Robbery,3131,60.7,369089,119.3,Violent,2010-2014
+2011,Robbery,3313,64.7,354746,113.9,Violent,2010-2014
+2012,Robbery,3349,64.5,355051,113.1,Violent,2010-2014
+2013,Robbery,3147,59.7,345093,109,Violent,2010-2014
+2014,Robbery,3031,56.7,322905,101.3,Violent,2010-2014
+2015,Robbery,3321,61,327374,101.9,Violent,2015-2019
+2016,Robbery,3518,63.3,,,Violent,2015-2019
+1980,Aggravated Assault,,309.2,,,Violent,1980-1984
+1981,Aggravated Assault,,318.5,,,Violent,1980-1984
+1982,Aggravated Assault,,303.1,,,Violent,1980-1984
+1983,Aggravated Assault,,301.7,,,Violent,1980-1984
+1984,Aggravated Assault,,299,,,Violent,1980-1984
+1985,Aggravated Assault,,300.1,,,Violent,1985-1989
+1986,Aggravated Assault,,329.4,,,Violent,1985-1989
+1987,Aggravated Assault,,302.1,,,Violent,1985-1989
+1988,Aggravated Assault,,329.5,,,Violent,1985-1989
+1989,Aggravated Assault,,340.8,,,Violent,1985-1989
+1990,Aggravated Assault,,385,,,Violent,1990-1994
+1991,Aggravated Assault,,398.9,,,Violent,1990-1994
+1992,Aggravated Assault,,404.9,,,Violent,1990-1994
+1993,Aggravated Assault,,399,,,Violent,1990-1994
+1994,Aggravated Assault,,354,,,Violent,1990-1994
+1995,Aggravated Assault,,298.7,1099207,418.3,Violent,1995-1999
+1996,Aggravated Assault,,255.4,1037049,391,Violent,1995-1999
+1997,Aggravated Assault,,232.8,1023201,382.1,Violent,1995-1999
+1998,Aggravated Assault,,244.4,976583,361.4,Violent,1995-1999
+1999,Aggravated Assault,,219.2,911740,334.3,Violent,1995-1999
+2000,Aggravated Assault,,219.1,911706,324,Violent,2000-2004
+2001,Aggravated Assault,,222.3,909023,318.6,Violent,2000-2004
+2002,Aggravated Assault,,223.5,891407,309.5,Violent,2000-2004
+2003,Aggravated Assault,,218.2,859030,295.4,Violent,2000-2004
+2004,Aggravated Assault,,244.2,847381,288.6,Violent,2000-2004
+2005,Aggravated Assault,,264.9,862220,290.8,Violent,2005-2009
+2006,Aggravated Assault,,265.9,874096,292,Violent,2005-2009
+2007,Aggravated Assault,26738,230.8,866358,287.2,Violent,2005-2009
+2008,Aggravated Assault,10699,213.5,843683,277.5,Violent,2005-2009
+2009,Aggravated Assault,11032,217,812514,264.7,Violent,2005-2009
+2010,Aggravated Assault,11248,218,781844,252.8,Violent,2010-2014
+2011,Aggravated Assault,10573,206.5,752423,241.5,Violent,2010-2014
+2012,Aggravated Assault,10155,195.7,762009,242.8,Violent,2010-2014
+2013,Aggravated Assault,9834,186.5,726777,229.6,Violent,2010-2014
+2014,Aggravated Assault,10213,190.9,731089,229.2,Violent,2010-2014
+2015,Aggravated Assault,10682,196.3,764449,237.8,Violent,2015-2019
+2016,Aggravated Assault,11568,208.2,,,Violent,2015-2019
+1980,Burgary,,2030.8,,,Property,1980-1984
+1981,Burgary,,2031.6,,,Property,1980-1984
+1982,Burgary,,1749.1,,,Property,1980-1984
+1983,Burgary,,1532.4,,,Property,1980-1984
+1984,Burgary,,1561.3,,,Property,1980-1984
+1985,Burgary,,1748.1,,,Property,1985-1989
+1986,Burgary,,1791.6,,,Property,1985-1989
+1987,Burgary,,1534.6,,,Property,1985-1989
+1988,Burgary,,1383.1,,,Property,1985-1989
+1989,Burgary,,1250.4,,,Property,1985-1989
+1990,Burgary,,1208.8,,,Property,1990-1994
+1991,Burgary,,1158.3,,,Property,1990-1994
+1992,Burgary,,1090.9,,,Property,1990-1994
+1993,Burgary,,1009.8,,,Property,1990-1994
+1994,Burgary,,925.7,,,Property,1990-1994
+1995,Burgary,,934.1,2593784,987,Property,1995-1999
+1996,Burgary,,900.8,2506400,945,Property,1995-1999
+1997,Burgary,31014,796.1,2460526,918.8,Property,1995-1999
+1998,Burgary,30248,753.4,2332735,863.2,Property,1995-1999
+1999,Burgary,26325,635.7,2100739,770.4,Property,1995-1999
+2000,Burgary,25751,598.7,2050992,728.8,Property,2000-2004
+2001,Burgary,26312,595.6,2116531,741.8,Property,2000-2004
+2002,Burgary,29894,662.5,2151252,747,Property,2000-2004
+2003,Burgary,29830,651.3,2154834,741,Property,2000-2004
+2004,Burgary,31690,682.7,2144446,730.3,Property,2000-2004
+2005,Burgary,33750,715,2155448,726.9,Property,2005-2009
+2006,Burgary,31793,661.8,2194993,733.1,Property,2005-2009
+2007,Burgary,28119,572.9,2190198,726.1,Property,2005-2009
+2008,Burgary,26597,530.9,2228887,733,Property,2005-2009
+2009,Burgary,25647,504.6,2203313,717.7,Property,2005-2009
+2010,Burgary,25769,499.4,2168459,701,Property,2010-2014
+2011,Burgary,25574,499.6,2185140,701.3,Property,2010-2014
+2012,Burgary,25673,494.8,2109932,672.2,Property,2010-2014
+2013,Burgary,24769,469.7,1932139,610.5,Property,2010-2014
+2014,Burgary,23134,432.4,1713153,537.2,Property,2010-2014
+2015,Burgary,23333,428.7,1579527,491.4,Property,2015-2019
+2016,Burgary,23515,423.3,,,Property,2015-2019
+1980,Larceny,,4325.8,,,Property,1980-1984
+1981,Larceny,,4375.9,,,Property,1980-1984
+1982,Larceny,,4429.3,,,Property,1980-1984
+1983,Larceny,,4245.7,,,Property,1980-1984
+1984,Larceny,,4054.7,,,Property,1980-1984
+1985,Larceny,,4267,,,Property,1985-1989
+1986,Larceny,,4230.8,,,Property,1985-1989
+1987,Larceny,,4012.9,,,Property,1985-1989
+1988,Larceny,,3900.6,,,Property,1985-1989
+1989,Larceny,,3864.8,,,Property,1985-1989
+1990,Larceny,,3890.6,,,Property,1990-1994
+1991,Larceny,,3930,,,Property,1990-1994
+1992,Larceny,,3780.1,,,Property,1990-1994
+1993,Larceny,,3499.4,,,Property,1990-1994
+1994,Larceny,,3490.2,,,Property,1990-1994
+1995,Larceny,,3634.5,7997710,3043.2,Property,1995-1999
+1996,Larceny,,3415.5,7904685,2980.3,Property,1995-1999
+1997,Larceny,,3077.3,7743760,2891.8,Property,1995-1999
+1998,Larceny,,2917.9,7376311,2729.5,Property,1995-1999
+1999,Larceny,,2692.9,6955520,2550.7,Property,1995-1999
+2000,Larceny,,2623.5,6971590,2477.3,Property,2000-2004
+2001,Larceny,,2738.9,7092267,2485.7,Property,2000-2004
+2002,Larceny,,2781.4,7057379,2450.7,Property,2000-2004
+2003,Larceny,,2737.6,7026802,2416.5,Property,2000-2004
+2004,Larceny,,2679.5,6937089,2362.3,Property,2000-2004
+2005,Larceny,123201,2609.8,6783447,2287.8,Property,2005-2009
+2006,Larceny,108086,2248.7,6626363,2213.2,Property,2005-2009
+2007,Larceny,97452,1985.5,6591542,2185.4,Property,2005-2009
+2008,Larceny,92875,1853.8,6586206,2166.1,Property,2005-2009
+2009,Larceny,93312,1835.8,6338095,2064.5,Property,2005-2009
+2010,Larceny,95740,1855.4,6204601,2005.8,Property,2010-2014
+2011,Larceny,95288,1861.5,6151095,1974.1,Property,2010-2014
+2012,Larceny,98863,1905.2,6168874,1965.4,Property,2010-2014
+2013,Larceny,101110,1917.5,6019465,1901.9,Property,2010-2014
+2014,Larceny,98315,1837.7,5809054,1821.5,Property,2010-2014
+2015,Larceny,102369,1880.7,5706346,1775.4,Property,2015-2019
+2016,Larceny,106768,1922,,,Property,2015-2019
+1980,Motor Vehicle Theft,,448.3,,,Property,1980-1984
+1981,Motor Vehicle Theft,,413.9,,,Property,1980-1984
+1982,Motor Vehicle Theft,,397.3,,,Property,1980-1984
+1983,Motor Vehicle Theft,,372.7,,,Property,1980-1984
+1984,Motor Vehicle Theft,,397.3,,,Property,1980-1984
+1985,Motor Vehicle Theft,,432.9,,,Property,1985-1989
+1986,Motor Vehicle Theft,,486,,,Property,1985-1989
+1987,Motor Vehicle Theft,,436.3,,,Property,1985-1989
+1988,Motor Vehicle Theft,,422,,,Property,1985-1989
+1989,Motor Vehicle Theft,,452.9,,,Property,1985-1989
+1990,Motor Vehicle Theft,,428.4,,,Property,1990-1994
+1991,Motor Vehicle Theft,,426.4,,,Property,1990-1994
+1992,Motor Vehicle Theft,,509,,,Property,1990-1994
+1993,Motor Vehicle Theft,,450.3,,,Property,1990-1994
+1994,Motor Vehicle Theft,,392.9,,,Property,1990-1994
+1995,Motor Vehicle Theft,,387.5,1472441,560.3,Property,1995-1999
+1996,Motor Vehicle Theft,,397.8,1394238,525.7,Property,1995-1999
+1997,Motor Vehicle Theft,16314,419.2,1354189,505.7,Property,1995-1999
+1998,Motor Vehicle Theft,15687,390.7,1242781,459.9,Property,1995-1999
+1999,Motor Vehicle Theft,14633,353.4,1152075,422.5,Property,1995-1999
+2000,Motor Vehicle Theft,16132,375,1160002,412.2,Property,2000-2004
+2001,Motor Vehicle Theft,19373,438.5,1228391,430.5,Property,2000-2004
+2002,Motor Vehicle Theft,21679,480.5,1246646,432.9,Property,2000-2004
+2003,Motor Vehicle Theft,20176,440.5,1261226,433.7,Property,2000-2004
+2004,Motor Vehicle Theft,22971,494.9,1237851,421.5,Property,2000-2004
+2005,Motor Vehicle Theft,25315,536.3,1235859,416.8,Property,2005-2009
+2006,Motor Vehicle Theft,20305,422.6,1198245,400.2,Property,2005-2009
+2007,Motor Vehicle Theft,16353,333.2,1100472,364.9,Property,2005-2009
+2008,Motor Vehicle Theft,12740,254.3,959059,315.4,Property,2005-2009
+2009,Motor Vehicle Theft,12182,239.7,795652,259.2,Property,2005-2009
+2010,Motor Vehicle Theft,11114,215.4,739565,239.1,Property,2010-2014
+2011,Motor Vehicle Theft,10938,213.7,716508,230,Property,2010-2014
+2012,Motor Vehicle Theft,11947,230.2,723186,230.4,Property,2010-2014
+2013,Motor Vehicle Theft,12396,235.1,700288,221.3,Property,2010-2014
+2014,Motor Vehicle Theft,12478,233.2,686803,215.4,Property,2010-2014
+2015,Motor Vehicle Theft,15932,292.7,707758,220.2,Property,2015-2019
+2016,Motor Vehicle Theft,19430,349.8,,,Property,2015-2019

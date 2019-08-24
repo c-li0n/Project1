@@ -1,0 +1,741 @@
+Years,Crime,Count,Population,ArrestRates,Which,Age Group,Group Year
+1980,Drug,"1,297",379611,341.67,Drug,Juvenile,1980-1984
+1981,Drug,"1,239",380535,325.59,Drug,Juvenile,1980-1984
+1982,Drug,"1,094",379180,288.52,Drug,Juvenile,1980-1984
+1983,Drug,837,378152,221.34,Drug,Juvenile,1980-1984
+1984,Drug,940,374515,250.99,Drug,Juvenile,1980-1984
+1985,Drug,"1,089",372734,292.17,Drug,Juvenile,1985-1989
+1986,Drug,985,369585,266.52,Drug,Juvenile,1985-1989
+1987,Drug,874,367668,237.71,Drug,Juvenile,1985-1989
+1988,Drug,972,360255,269.81,Drug,Juvenile,1985-1989
+1989,Drug,926,355354,260.59,Drug,Juvenile,1985-1989
+1990,Drug,664,355862,186.59,Drug,Juvenile,1990-1994
+1991,Drug,718,367231,195.52,Drug,Juvenile,1990-1994
+1992,Drug,920,381550,241.12,Drug,Juvenile,1990-1994
+1993,Drug,"1,690",396675,426.04,Drug,Juvenile,1990-1994
+1994,Drug,,411405,,Drug,Juvenile,1990-1994
+1995,Drug,"2,573",425421,604.81,Drug,Juvenile,1995-1999
+1996,Drug,"3,065",438447,699.06,Drug,Juvenile,1995-1999
+1997,Drug,"3,687",451896,815.9,Drug,Juvenile,1995-1999
+1998,Drug,"4,051",467035,867.39,Drug,Juvenile,1995-1999
+1999,Drug,"3,945",482879,816.97,Drug,Juvenile,1995-1999
+2000,Drug,"3,855",499995,771.01,Drug,Juvenile,2000-2004
+2001,Drug,"4,084",510740,799.62,Drug,Juvenile,2000-2004
+2002,Drug,"3,746",515931,726.07,Drug,Juvenile,2000-2004
+2003,Drug,"3,581",518561,690.56,Drug,Juvenile,2000-2004
+2004,Drug,"3,562",518964,686.37,Drug,Juvenile,2000-2004
+2005,Drug,"3,860",519729,742.69,Drug,Juvenile,2005-2009
+2006,Drug,"3,627",523931,692.27,Drug,Juvenile,2005-2009
+2007,Drug,"3,705",527950,701.77,Drug,Juvenile,2005-2009
+2008,Drug,"3,731",529031,705.25,Drug,Juvenile,2005-2009
+2009,Drug,"3,332",531241,627.21,Drug,Juvenile,2005-2009
+2010,Drug,"3,516",534850,657.38,Drug,Juvenile,2010-2014
+2011,Drug,3515,541193,649.49,Drug,Juvenile,2010-2014
+2012,Drug,3236,548008,590.5,Drug,Juvenile,2010-2014
+2013,Drug,3079,557738,552.05,Drug,Juvenile,2010-2014
+2014,Drug,3402,569052,597.84,Drug,Juvenile,2010-2014
+2015,Drug,3021,582108,518.98,Drug,Juvenile,2015-2019
+2016,Drug,2673,594505,449.62,Drug,Juvenile,2015-2019
+1980,Drug,"4,657",2097530,222.02,Drug,Adult,1980-1984
+1981,Drug,"5,094",2159216,235.92,Drug,Adult,1980-1984
+1982,Drug,"6,361",2230324,285.21,Drug,Adult,1980-1984
+1983,Drug,"5,825",2285869,254.83,Drug,Adult,1980-1984
+1984,Drug,"6,440",2315719,278.1,Drug,Adult,1980-1984
+1985,Drug,"6,485",2346049,276.42,Drug,Adult,1985-1989
+1986,Drug,"6,453",2367485,272.57,Drug,Adult,1985-1989
+1987,Drug,"6,414",2383670,269.08,Drug,Adult,1985-1989
+1988,Drug,"7,973",2390616,333.51,Drug,Adult,1985-1989
+1989,Drug,"8,102",2409125,336.3,Drug,Adult,1985-1989
+1990,Drug,"6,751",2437182,277,Drug,Adult,1990-1994
+1991,Drug,"6,921",2497030,277.17,Drug,Adult,1990-1994
+1992,Drug,"7,734",2579930,299.78,Drug,Adult,1990-1994
+1993,Drug,"8,973",2667855,336.34,Drug,Adult,1990-1994
+1994,Drug,,2749189,,Drug,Adult,1990-1994
+1995,Drug,"9,507",2824583,336.58,Drug,Adult,1995-1999
+1996,Drug,"14,604",2894909,504.47,Drug,Adult,1995-1999
+1997,Drug,"15,605",2966572,526.03,Drug,Adult,1995-1999
+1998,Drug,"16,434",3048002,539.17,Drug,Adult,1995-1999
+1999,Drug,"18,330",3135003,584.69,Drug,Adult,1995-1999
+2000,Drug,"16,686",3229650,516.65,Drug,Adult,2000-2004
+2001,Drug,"15,780",3315626,475.93,Drug,Adult,2000-2004
+2002,Drug,"15,144",3366887,449.79,Drug,Adult,2000-2004
+2003,Drug,"15,116",3410632,443.2,Drug,Adult,2000-2004
+2004,Drug,"16,319",3457311,472.01,Drug,Adult,2000-2004
+2005,Drug,"17,352",3503135,495.33,Drug,Adult,2005-2009
+2006,Drug,"16,266",3569324,455.72,Drug,Adult,2005-2009
+2007,Drug,"15,672",3628969,431.86,Drug,Adult,2005-2009
+2008,Drug,"15,032",3695673,406.75,Drug,Adult,2005-2009
+2009,Drug,"14,050",3760623,373.61,Drug,Adult,2005-2009
+2010,Drug,"13,430",3822317,351.36,Drug,Adult,2010-2014
+2011,Drug,"12,859",3884611,331.02,Drug,Adult,2010-2014
+2012,Drug,"13,568",3949438,343.54,Drug,Adult,2010-2014
+2013,Drug,"9,397",4018766,233.83,Drug,Adult,2010-2014
+2014,Drug,"10,119",4090653,247.37,Drug,Adult,2010-2014
+2015,Drug,"11,699",4173962,280.29,Drug,Adult,2015-2019
+2016,Drug,"12,974",4258022,304.7,Drug,Adult,2015-2019
+1980,Burglary,"3,228",2097530,153.9,Property,Adult,1980-1984
+1981,Burglary,"3,434",2159216,159.04,Property,Adult,1980-1984
+1982,Burglary,"3,313",2230324,148.54,Property,Adult,1980-1984
+1983,Burglary,"3,155",2285869,138.02,Property,Adult,1980-1984
+1984,Burglary,"2,709",2315719,116.98,Property,Adult,1980-1984
+1985,Burglary,"3,103",2346049,132.26,Property,Adult,1985-1989
+1986,Burglary,"3,175",2367485,134.11,Property,Adult,1985-1989
+1987,Burglary,"2,786",2383670,116.88,Property,Adult,1985-1989
+1988,Burglary,"2,643",2390616,110.56,Property,Adult,1985-1989
+1989,Burglary,"2,593",2409125,107.63,Property,Adult,1985-1989
+1990,Burglary,"2,500",2437182,102.58,Property,Adult,1990-1994
+1991,Burglary,"2,356",2497030,94.35,Property,Adult,1990-1994
+1992,Burglary,"2,186",2579930,84.73,Property,Adult,1990-1994
+1993,Burglary,"2,217",2667855,83.1,Property,Adult,1990-1994
+1994,Burglary,"2,185",2749189,79.48,Property,Adult,1990-1994
+1995,Burglary,"1,973",2824583,69.85,Property,Adult,1995-1999
+1996,Burglary,"1,899",2894909,65.6,Property,Adult,1995-1999
+1997,Burglary,"1,804",2966572,60.81,Property,Adult,1995-1999
+1998,Burglary,"1,822",3048002,59.78,Property,Adult,1995-1999
+1999,Burglary,"1,751",3135003,55.85,Property,Adult,1995-1999
+2000,Burglary,"1,839",3229650,56.94,Property,Adult,2000-2004
+2001,Burglary,"1,861",3315626,56.13,Property,Adult,2000-2004
+2002,Burglary,"2,117",3366887,62.88,Property,Adult,2000-2004
+2003,Burglary,"2,109",3410632,61.84,Property,Adult,2000-2004
+2004,Burglary,"2,107",3457311,60.94,Property,Adult,2000-2004
+2005,Burglary,"2,289",3503135,65.34,Property,Adult,2005-2009
+2006,Burglary,"2,165",3569324,60.66,Property,Adult,2005-2009
+2007,Burglary,"1,965",3628969,54.15,Property,Adult,2005-2009
+2008,Burglary,"2,181",3695673,59.01,Property,Adult,2005-2009
+2009,Burglary,"2,136",3760623,56.8,Property,Adult,2005-2009
+2010,Burglary,"2,067",3822317,54.08,Property,Adult,2010-2014
+2011,Burglary,"2,006",3884611,51.64,Property,Adult,2010-2014
+2012,Burglary,"1,806",3949438,45.73,Property,Adult,2010-2014
+2013,Burglary,"1,998",4018766,49.72,Property,Adult,2010-2014
+2014,Burglary,"2,240",4090653,54.76,Property,Adult,2010-2014
+2015,Burglary,"1,974",4173962,47.29,Property,Adult,2015-2019
+2016,Burglary,"2,238",4258022,52.56,Property,Adult,2015-2019
+1980,Larceny,"16,225",2097530,773.53,Property,Adult,1980-1984
+1981,Larceny,"15,717",2159216,727.9,Property,Adult,1980-1984
+1982,Larceny,"17,794",2230324,797.82,Property,Adult,1980-1984
+1983,Larceny,"18,450",2285869,807.13,Property,Adult,1980-1984
+1984,Larceny,"19,056",2315719,822.9,Property,Adult,1980-1984
+1985,Larceny,"20,223",2346049,862,Property,Adult,1985-1989
+1986,Larceny,"20,084",2367485,848.33,Property,Adult,1985-1989
+1987,Larceny,"20,576",2383670,863.21,Property,Adult,1985-1989
+1988,Larceny,"20,743",2390616,867.68,Property,Adult,1985-1989
+1989,Larceny,"19,221",2409125,797.84,Property,Adult,1985-1989
+1990,Larceny,"19,494",2437182,799.86,Property,Adult,1990-1994
+1991,Larceny,"19,995",2497030,800.75,Property,Adult,1990-1994
+1992,Larceny,"19,514",2579930,756.38,Property,Adult,1990-1994
+1993,Larceny,"19,392",2667855,726.88,Property,Adult,1990-1994
+1994,Larceny,"18,794",2749189,683.62,Property,Adult,1990-1994
+1995,Larceny,"20,439",2824583,723.61,Property,Adult,1995-1999
+1996,Larceny,"19,835",2894909,685.17,Property,Adult,1995-1999
+1997,Larceny,"18,829",2966572,634.71,Property,Adult,1995-1999
+1998,Larceny,"18,524",3048002,607.74,Property,Adult,1995-1999
+1999,Larceny,"17,343",3135003,553.21,Property,Adult,1995-1999
+2000,Larceny,"16,693",3229650,516.87,Property,Adult,2000-2004
+2001,Larceny,"16,919",3315626,510.28,Property,Adult,2000-2004
+2002,Larceny,"17,640",3366887,523.93,Property,Adult,2000-2004
+2003,Larceny,"16,213",3410632,475.37,Property,Adult,2000-2004
+2004,Larceny,"18,038",3457311,521.73,Property,Adult,2000-2004
+2005,Larceny,"17,326",3503135,494.59,Property,Adult,2005-2009
+2006,Larceny,"13,257",3569324,371.41,Property,Adult,2005-2009
+2007,Larceny,"13,644",3628969,375.97,Property,Adult,2005-2009
+2008,Larceny,"14,636",3695673,396.03,Property,Adult,2005-2009
+2009,Larceny,"15,903",3760623,422.88,Property,Adult,2005-2009
+2010,Larceny,"14,665",3822317,383.67,Property,Adult,2010-2014
+2011,Larceny,"15,617",3884611,402.02,Property,Adult,2010-2014
+2012,Larceny,"16,082",3949438,407.2,Property,Adult,2010-2014
+2013,Larceny,"20,122",4018766,500.7,Property,Adult,2010-2014
+2014,Larceny,"22,973",4090653,561.6,Property,Adult,2010-2014
+2015,Larceny,"22,604",4173962,541.55,Property,Adult,2015-2019
+2016,Larceny,"21,963",4258022,515.8,Property,Adult,2015-2019
+1980,Motor Vehicle Theft,"1,037",2097530,49.44,Property,Adult,1980-1984
+1981,Motor Vehicle Theft,974,2159216,45.11,Property,Adult,1980-1984
+1982,Motor Vehicle Theft,"1,064",2230324,47.71,Property,Adult,1980-1984
+1983,Motor Vehicle Theft,"1,014",2285869,44.36,Property,Adult,1980-1984
+1984,Motor Vehicle Theft,"1,100",2315719,47.5,Property,Adult,1980-1984
+1985,Motor Vehicle Theft,"1,139",2346049,48.55,Property,Adult,1985-1989
+1986,Motor Vehicle Theft,"1,220",2367485,51.53,Property,Adult,1985-1989
+1987,Motor Vehicle Theft,"1,200",2383670,50.34,Property,Adult,1985-1989
+1988,Motor Vehicle Theft,"1,207",2390616,50.49,Property,Adult,1985-1989
+1989,Motor Vehicle Theft,"1,294",2409125,53.71,Property,Adult,1985-1989
+1990,Motor Vehicle Theft,"1,180",2437182,48.42,Property,Adult,1990-1994
+1991,Motor Vehicle Theft,"1,163",2497030,46.58,Property,Adult,1990-1994
+1992,Motor Vehicle Theft,"1,213",2579930,47.02,Property,Adult,1990-1994
+1993,Motor Vehicle Theft,"1,232",2667855,46.18,Property,Adult,1990-1994
+1994,Motor Vehicle Theft,"1,127",2749189,40.99,Property,Adult,1990-1994
+1995,Motor Vehicle Theft,"1,212",2824583,42.91,Property,Adult,1995-1999
+1996,Motor Vehicle Theft,"1,192",2894909,41.18,Property,Adult,1995-1999
+1997,Motor Vehicle Theft,"1,327",2966572,44.73,Property,Adult,1995-1999
+1998,Motor Vehicle Theft,"1,393",3048002,45.7,Property,Adult,1995-1999
+1999,Motor Vehicle Theft,"1,268",3135003,40.45,Property,Adult,1995-1999
+2000,Motor Vehicle Theft,"1,341",3229650,41.52,Property,Adult,2000-2004
+2001,Motor Vehicle Theft,"1,390",3315626,41.92,Property,Adult,2000-2004
+2002,Motor Vehicle Theft,"1,670",3366887,49.6,Property,Adult,2000-2004
+2003,Motor Vehicle Theft,"1,758",3410632,51.54,Property,Adult,2000-2004
+2004,Motor Vehicle Theft,"1,948",3457311,56.34,Property,Adult,2000-2004
+2005,Motor Vehicle Theft,"1,528",3503135,43.62,Property,Adult,2005-2009
+2006,Motor Vehicle Theft,"1,437",3569324,40.26,Property,Adult,2005-2009
+2007,Motor Vehicle Theft,"1,195",3628969,32.93,Property,Adult,2005-2009
+2008,Motor Vehicle Theft,953,3695673,25.79,Property,Adult,2005-2009
+2009,Motor Vehicle Theft,935,3760623,24.86,Property,Adult,2005-2009
+2010,Motor Vehicle Theft,789,3822317,20.64,Property,Adult,2010-2014
+2011,Motor Vehicle Theft,877,3884611,22.58,Property,Adult,2010-2014
+2012,Motor Vehicle Theft,839,3949438,21.24,Property,Adult,2010-2014
+2013,Motor Vehicle Theft,"1,084",4018766,26.97,Property,Adult,2010-2014
+2014,Motor Vehicle Theft,"1,291",4090653,31.56,Property,Adult,2010-2014
+2015,Motor Vehicle Theft,"1,733",4173962,41.52,Property,Adult,2015-2019
+2016,Motor Vehicle Theft,"2,238",4258022,52.56,Property,Adult,2015-2019
+1980,Arson,203,2097530,9.68,Property,Adult,1980-1984
+1981,Arson,215,2159216,9.96,Property,Adult,1980-1984
+1982,Arson,189,2230324,8.47,Property,Adult,1980-1984
+1983,Arson,121,2285869,5.29,Property,Adult,1980-1984
+1984,Arson,137,2315719,5.92,Property,Adult,1980-1984
+1985,Arson,137,2346049,5.84,Property,Adult,1985-1989
+1986,Arson,166,2367485,7.01,Property,Adult,1985-1989
+1987,Arson,147,2383670,6.17,Property,Adult,1985-1989
+1988,Arson,133,2390616,5.56,Property,Adult,1985-1989
+1989,Arson,119,2409125,4.94,Property,Adult,1985-1989
+1990,Arson,105,2437182,4.31,Property,Adult,1990-1994
+1991,Arson,118,2497030,4.73,Property,Adult,1990-1994
+1992,Arson,125,2579930,4.85,Property,Adult,1990-1994
+1993,Arson,117,2667855,4.39,Property,Adult,1990-1994
+1994,Arson,169,2749189,6.15,Property,Adult,1990-1994
+1995,Arson,90,2824583,3.19,Property,Adult,1995-1999
+1996,Arson,136,2894909,4.7,Property,Adult,1995-1999
+1997,Arson,93,2966572,3.13,Property,Adult,1995-1999
+1998,Arson,113,3048002,3.71,Property,Adult,1995-1999
+1999,Arson,96,3135003,3.06,Property,Adult,1995-1999
+2000,Arson,135,3229650,4.18,Property,Adult,2000-2004
+2001,Arson,116,3315626,3.5,Property,Adult,2000-2004
+2002,Arson,143,3366887,4.25,Property,Adult,2000-2004
+2003,Arson,145,3410632,4.25,Property,Adult,2000-2004
+2004,Arson,92,3457311,2.66,Property,Adult,2000-2004
+2005,Arson,129,3503135,3.68,Property,Adult,2005-2009
+2006,Arson,112,3569324,3.14,Property,Adult,2005-2009
+2007,Arson,117,3628969,3.22,Property,Adult,2005-2009
+2008,Arson,110,3695673,2.98,Property,Adult,2005-2009
+2009,Arson,87,3760623,2.31,Property,Adult,2005-2009
+2010,Arson,107,3822317,2.8,Property,Adult,2010-2014
+2011,Arson,94,3884611,2.42,Property,Adult,2010-2014
+2012,Arson,106,3949438,2.68,Property,Adult,2010-2014
+2013,Arson,107,4018766,2.66,Property,Adult,2010-2014
+2014,Arson,103,4090653,2.52,Property,Adult,2010-2014
+2015,Arson,116,4173962,2.78,Property,Adult,2015-2019
+2016,Arson,161,4258022,3.78,Property,Adult,2015-2019
+1980,Burglary,"3,521",379611,927.53,Property,Juvenile,1980-1984
+1981,Burglary,"3,522",380535,925.54,Property,Juvenile,1980-1984
+1982,Burglary,"3,133",379180,826.26,Property,Juvenile,1980-1984
+1983,Burglary,"2,977",378152,787.25,Property,Juvenile,1980-1984
+1984,Burglary,"2,455",374515,655.51,Property,Juvenile,1980-1984
+1985,Burglary,"2,859",372734,767.03,Property,Juvenile,1985-1989
+1986,Burglary,"2,394",369585,647.75,Property,Juvenile,1985-1989
+1987,Burglary,"2,510",367668,682.68,Property,Juvenile,1985-1989
+1988,Burglary,"2,260",360255,627.33,Property,Juvenile,1985-1989
+1989,Burglary,"2,294",355354,645.55,Property,Juvenile,1985-1989
+1990,Burglary,"2,076",355862,583.37,Property,Juvenile,1990-1994
+1991,Burglary,"2,194",367231,597.44,Property,Juvenile,1990-1994
+1992,Burglary,"1,973",381550,517.1,Property,Juvenile,1990-1994
+1993,Burglary,"1,847",396675,465.62,Property,Juvenile,1990-1994
+1994,Burglary,"1,925",411405,467.91,Property,Juvenile,1990-1994
+1995,Burglary,"1,605",425421,377.27,Property,Juvenile,1995-1999
+1996,Burglary,"1,581",438447,360.59,Property,Juvenile,1995-1999
+1997,Burglary,"1,679",451896,371.55,Property,Juvenile,1995-1999
+1998,Burglary,"1,553",467035,332.52,Property,Juvenile,1995-1999
+1999,Burglary,"1,322",482879,273.77,Property,Juvenile,1995-1999
+2000,Burglary,"1,296",499995,259.2,Property,Juvenile,2000-2004
+2001,Burglary,"1,204",510740,235.74,Property,Juvenile,2000-2004
+2002,Burglary,"1,223",515931,237.05,Property,Juvenile,2000-2004
+2003,Burglary,"1,038",518561,200.17,Property,Juvenile,2000-2004
+2004,Burglary,998,518964,192.31,Property,Juvenile,2000-2004
+2005,Burglary,923,519729,177.59,Property,Juvenile,2005-2009
+2006,Burglary,961,523931,183.42,Property,Juvenile,2005-2009
+2007,Burglary,829,527950,157.02,Property,Juvenile,2005-2009
+2008,Burglary,"1,076",529031,203.39,Property,Juvenile,2005-2009
+2009,Burglary,892,531241,167.91,Property,Juvenile,2005-2009
+2010,Burglary,644,534850,120.41,Property,Juvenile,2010-2014
+2011,Burglary,634,541193,117.15,Property,Juvenile,2010-2014
+2012,Burglary,509,548008,92.88,Property,Juvenile,2010-2014
+2013,Burglary,463,557738,83.01,Property,Juvenile,2010-2014
+2014,Burglary,475,569052,83.47,Property,Juvenile,2010-2014
+2015,Burglary,483,582108,82.97,Property,Juvenile,2015-2019
+2016,Burglary,450,594505,75.69,Property,Juvenile,2015-2019
+1980,Larceny,"11,537",379611,3039.16,Property,Juvenile,1980-1984
+1981,Larceny,"10,998",380535,2890.14,Property,Juvenile,1980-1984
+1982,Larceny,"10,764",379180,2838.76,Property,Juvenile,1980-1984
+1983,Larceny,"11,934",378152,3155.87,Property,Juvenile,1980-1984
+1984,Larceny,"12,354",374515,3298.67,Property,Juvenile,1980-1984
+1985,Larceny,"12,504",372734,3354.67,Property,Juvenile,1985-1989
+1986,Larceny,"11,902",369585,3220.37,Property,Juvenile,1985-1989
+1987,Larceny,"11,393",367668,3098.72,Property,Juvenile,1985-1989
+1988,Larceny,"11,038",360255,3063.94,Property,Juvenile,1985-1989
+1989,Larceny,"11,346",355354,3192.87,Property,Juvenile,1985-1989
+1990,Larceny,"12,472",355862,3504.73,Property,Juvenile,1990-1994
+1991,Larceny,"13,035",367231,3549.54,Property,Juvenile,1990-1994
+1992,Larceny,"12,724",381550,3334.82,Property,Juvenile,1990-1994
+1993,Larceny,"11,468",396675,2891.03,Property,Juvenile,1990-1994
+1994,Larceny,"12,611",411405,3065.35,Property,Juvenile,1990-1994
+1995,Larceny,"13,548",425421,3184.61,Property,Juvenile,1995-1999
+1996,Larceny,"12,706",438447,2897.96,Property,Juvenile,1995-1999
+1997,Larceny,"12,865",451896,2846.89,Property,Juvenile,1995-1999
+1998,Larceny,"11,893",467035,2546.49,Property,Juvenile,1995-1999
+1999,Larceny,"10,673",482879,2210.28,Property,Juvenile,1995-1999
+2000,Larceny,"9,345",499995,1869.02,Property,Juvenile,2000-2004
+2001,Larceny,"8,637",510740,1691.08,Property,Juvenile,2000-2004
+2002,Larceny,"8,403",515931,1628.71,Property,Juvenile,2000-2004
+2003,Larceny,"7,005",518561,1350.85,Property,Juvenile,2000-2004
+2004,Larceny,"7,734",518964,1490.28,Property,Juvenile,2000-2004
+2005,Larceny,"7,313",519729,1407.08,Property,Juvenile,2005-2009
+2006,Larceny,"6,006",523931,1146.33,Property,Juvenile,2005-2009
+2007,Larceny,"6,484",527950,1228.15,Property,Juvenile,2005-2009
+2008,Larceny,"7,142",529031,1350.02,Property,Juvenile,2005-2009
+2009,Larceny,"6,652",531241,1252.16,Property,Juvenile,2005-2009
+2010,Larceny,"6,146",534850,1149.11,Property,Juvenile,2010-2014
+2011,Larceny,"5,441",541193,1005.37,Property,Juvenile,2010-2014
+2012,Larceny,"5,019",548008,915.86,Property,Juvenile,2010-2014
+2013,Larceny,"4,871",557738,873.35,Property,Juvenile,2010-2014
+2014,Larceny,"5,138",569052,902.91,Property,Juvenile,2010-2014
+2015,Larceny,"4,498",582108,772.71,Property,Juvenile,2015-2019
+2016,Larceny,"3,948",594505,664.08,Property,Juvenile,2015-2019
+1980,Motor Vehicle Theft,"1,190",379611,313.48,Property,Juvenile,1980-1984
+1981,Motor Vehicle Theft,"1,145",380535,300.89,Property,Juvenile,1980-1984
+1982,Motor Vehicle Theft,944,379180,248.96,Property,Juvenile,1980-1984
+1983,Motor Vehicle Theft,899,378152,237.74,Property,Juvenile,1980-1984
+1984,Motor Vehicle Theft,"1,093",374515,291.84,Property,Juvenile,1980-1984
+1985,Motor Vehicle Theft,"1,179",372734,316.31,Property,Juvenile,1985-1989
+1986,Motor Vehicle Theft,"1,313",369585,355.26,Property,Juvenile,1985-1989
+1987,Motor Vehicle Theft,"1,237",367668,336.44,Property,Juvenile,1985-1989
+1988,Motor Vehicle Theft,"1,344",360255,373.07,Property,Juvenile,1985-1989
+1989,Motor Vehicle Theft,"1,711",355354,481.49,Property,Juvenile,1985-1989
+1990,Motor Vehicle Theft,"1,382",355862,388.35,Property,Juvenile,1990-1994
+1991,Motor Vehicle Theft,"1,329",367231,361.9,Property,Juvenile,1990-1994
+1992,Motor Vehicle Theft,"1,096",381550,287.25,Property,Juvenile,1990-1994
+1993,Motor Vehicle Theft,"1,335",396675,336.55,Property,Juvenile,1990-1994
+1994,Motor Vehicle Theft,964,411405,234.32,Property,Juvenile,1990-1994
+1995,Motor Vehicle Theft,882,425421,207.32,Property,Juvenile,1995-1999
+1996,Motor Vehicle Theft,864,438447,197.06,Property,Juvenile,1995-1999
+1997,Motor Vehicle Theft,"1,517",451896,335.7,Property,Juvenile,1995-1999
+1998,Motor Vehicle Theft,"1,291",467035,276.42,Property,Juvenile,1995-1999
+1999,Motor Vehicle Theft,"1,073",482879,222.21,Property,Juvenile,1995-1999
+2000,Motor Vehicle Theft,"1,230",499995,246,Property,Juvenile,2000-2004
+2001,Motor Vehicle Theft,"1,224",510740,239.65,Property,Juvenile,2000-2004
+2002,Motor Vehicle Theft,"1,507",515931,292.09,Property,Juvenile,2000-2004
+2003,Motor Vehicle Theft,"1,082",518561,208.65,Property,Juvenile,2000-2004
+2004,Motor Vehicle Theft,906,518964,174.58,Property,Juvenile,2000-2004
+2005,Motor Vehicle Theft,593,519729,114.1,Property,Juvenile,2005-2009
+2006,Motor Vehicle Theft,497,523931,94.86,Property,Juvenile,2005-2009
+2007,Motor Vehicle Theft,390,527950,73.87,Property,Juvenile,2005-2009
+2008,Motor Vehicle Theft,423,529031,79.96,Property,Juvenile,2005-2009
+2009,Motor Vehicle Theft,330,531241,62.12,Property,Juvenile,2005-2009
+2010,Motor Vehicle Theft,266,534850,49.73,Property,Juvenile,2010-2014
+2011,Motor Vehicle Theft,287,541193,53.03,Property,Juvenile,2010-2014
+2012,Motor Vehicle Theft,215,548008,39.23,Property,Juvenile,2010-2014
+2013,Motor Vehicle Theft,284,557738,50.92,Property,Juvenile,2010-2014
+2014,Motor Vehicle Theft,300,569052,52.72,Property,Juvenile,2010-2014
+2015,Motor Vehicle Theft,445,582108,76.45,Property,Juvenile,2015-2019
+2016,Motor Vehicle Theft,467,594505,78.55,Property,Juvenile,2015-2019
+1980,Arson,255,379611,67.17,Property,Juvenile,1980-1984
+1981,Arson,257,380535,67.54,Property,Juvenile,1980-1984
+1982,Arson,260,379180,68.57,Property,Juvenile,1980-1984
+1983,Arson,207,378152,54.74,Property,Juvenile,1980-1984
+1984,Arson,266,374515,71.03,Property,Juvenile,1980-1984
+1985,Arson,240,372734,64.39,Property,Juvenile,1985-1989
+1986,Arson,273,369585,73.87,Property,Juvenile,1985-1989
+1987,Arson,222,367668,60.38,Property,Juvenile,1985-1989
+1988,Arson,237,360255,65.79,Property,Juvenile,1985-1989
+1989,Arson,228,355354,64.16,Property,Juvenile,1985-1989
+1990,Arson,239,355862,67.16,Property,Juvenile,1990-1994
+1991,Arson,264,367231,71.89,Property,Juvenile,1990-1994
+1992,Arson,244,381550,63.95,Property,Juvenile,1990-1994
+1993,Arson,229,396675,57.73,Property,Juvenile,1990-1994
+1994,Arson,273,411405,66.36,Property,Juvenile,1990-1994
+1995,Arson,191,425421,44.9,Property,Juvenile,1995-1999
+1996,Arson,295,438447,67.28,Property,Juvenile,1995-1999
+1997,Arson,191,451896,42.27,Property,Juvenile,1995-1999
+1998,Arson,227,467035,48.6,Property,Juvenile,1995-1999
+1999,Arson,217,482879,44.94,Property,Juvenile,1995-1999
+2000,Arson,241,499995,48.2,Property,Juvenile,2000-2004
+2001,Arson,218,510740,42.68,Property,Juvenile,2000-2004
+2002,Arson,253,515931,49.04,Property,Juvenile,2000-2004
+2003,Arson,214,518561,41.27,Property,Juvenile,2000-2004
+2004,Arson,144,518964,27.75,Property,Juvenile,2000-2004
+2005,Arson,198,519729,38.1,Property,Juvenile,2005-2009
+2006,Arson,171,523931,32.64,Property,Juvenile,2005-2009
+2007,Arson,212,527950,40.16,Property,Juvenile,2005-2009
+2008,Arson,143,529031,27.03,Property,Juvenile,2005-2009
+2009,Arson,168,531241,31.62,Property,Juvenile,2005-2009
+2010,Arson,129,534850,24.12,Property,Juvenile,2010-2014
+2011,Arson,150,541193,27.72,Property,Juvenile,2010-2014
+2012,Arson,131,548008,23.9,Property,Juvenile,2010-2014
+2013,Arson,90,557738,16.14,Property,Juvenile,2010-2014
+2014,Arson,123,569052,21.61,Property,Juvenile,2010-2014
+2015,Arson,66,582108,11.34,Property,Juvenile,2015-2019
+2016,Arson,82,594505,13.79,Property,Juvenile,2015-2019
+1980,Homicide,129,2097530,6.15,Violent,Adult,1980-1984
+1981,Homicide,190,2159216,8.8,Violent,Adult,1980-1984
+1982,Homicide,148,2230324,6.64,Violent,Adult,1980-1984
+1983,Homicide,150,2285869,6.56,Violent,Adult,1980-1984
+1984,Homicide,181,2315719,7.82,Violent,Adult,1980-1984
+1985,Homicide,146,2346049,6.22,Violent,Adult,1985-1989
+1986,Homicide,185,2367485,7.81,Violent,Adult,1985-1989
+1987,Homicide,148,2383670,6.21,Violent,Adult,1985-1989
+1988,Homicide,146,2390616,6.11,Violent,Adult,1985-1989
+1989,Homicide,149,2409125,6.18,Violent,Adult,1985-1989
+1990,Homicide,129,2437182,5.29,Violent,Adult,1990-1994
+1991,Homicide,170,2497030,6.81,Violent,Adult,1990-1994
+1992,Homicide,188,2579930,7.29,Violent,Adult,1990-1994
+1993,Homicide,182,2667855,6.82,Violent,Adult,1990-1994
+1994,Homicide,155,2749189,5.64,Violent,Adult,1990-1994
+1995,Homicide,169,2824583,5.98,Violent,Adult,1995-1999
+1996,Homicide,126,2894909,4.35,Violent,Adult,1995-1999
+1997,Homicide,142,2966572,4.79,Violent,Adult,1995-1999
+1998,Homicide,127,3048002,4.17,Violent,Adult,1995-1999
+1999,Homicide,110,3135003,3.51,Violent,Adult,1995-1999
+2000,Homicide,123,3229650,3.81,Violent,Adult,2000-2004
+2001,Homicide,126,3315626,3.8,Violent,Adult,2000-2004
+2002,Homicide,121,3366887,3.59,Violent,Adult,2000-2004
+2003,Homicide,104,3410632,3.05,Violent,Adult,2000-2004
+2004,Homicide,154,3457311,4.45,Violent,Adult,2000-2004
+2005,Homicide,98,3503135,2.8,Violent,Adult,2005-2009
+2006,Homicide,102,3569324,2.86,Violent,Adult,2005-2009
+2007,Homicide,104,3628969,2.87,Violent,Adult,2005-2009
+2008,Homicide,159,3695673,4.3,Violent,Adult,2005-2009
+2009,Homicide,125,3760623,3.32,Violent,Adult,2005-2009
+2010,Homicide,118,3822317,3.09,Violent,Adult,2010-2014
+2011,Homicide,115,3884611,2.96,Violent,Adult,2010-2014
+2012,Homicide,113,3949438,2.86,Violent,Adult,2010-2014
+2013,Homicide,112,4018766,2.79,Violent,Adult,2010-2014
+2014,Homicide,116,4090653,2.84,Violent,Adult,2010-2014
+2015,Homicide,98,4173962,2.35,Violent,Adult,2015-2019
+2016,Homicide,147,4258022,3.45,Violent,Adult,2015-2019
+1980,Forcible Rape,389,2097530,18.55,Violent,Adult,1980-1984
+1981,Forcible Rape,311,2159216,14.4,Violent,Adult,1980-1984
+1982,Forcible Rape,376,2230324,16.86,Violent,Adult,1980-1984
+1983,Forcible Rape,340,2285869,14.87,Violent,Adult,1980-1984
+1984,Forcible Rape,352,2315719,15.2,Violent,Adult,1980-1984
+1985,Forcible Rape,360,2346049,15.34,Violent,Adult,1985-1989
+1986,Forcible Rape,335,2367485,14.15,Violent,Adult,1985-1989
+1987,Forcible Rape,375,2383670,15.73,Violent,Adult,1985-1989
+1988,Forcible Rape,450,2390616,18.82,Violent,Adult,1985-1989
+1989,Forcible Rape,440,2409125,18.26,Violent,Adult,1985-1989
+1990,Forcible Rape,529,2437182,21.71,Violent,Adult,1990-1994
+1991,Forcible Rape,499,2497030,19.98,Violent,Adult,1990-1994
+1992,Forcible Rape,472,2579930,18.3,Violent,Adult,1990-1994
+1993,Forcible Rape,472,2667855,17.69,Violent,Adult,1990-1994
+1994,Forcible Rape,426,2749189,15.5,Violent,Adult,1990-1994
+1995,Forcible Rape,417,2824583,14.76,Violent,Adult,1995-1999
+1996,Forcible Rape,506,2894909,17.48,Violent,Adult,1995-1999
+1997,Forcible Rape,530,2966572,17.87,Violent,Adult,1995-1999
+1998,Forcible Rape,663,3048002,21.75,Violent,Adult,1995-1999
+1999,Forcible Rape,490,3135003,15.63,Violent,Adult,1995-1999
+2000,Forcible Rape,441,3229650,13.65,Violent,Adult,2000-2004
+2001,Forcible Rape,392,3315626,11.82,Violent,Adult,2000-2004
+2002,Forcible Rape,425,3366887,12.62,Violent,Adult,2000-2004
+2003,Forcible Rape,422,3410632,12.37,Violent,Adult,2000-2004
+2004,Forcible Rape,405,3457311,11.71,Violent,Adult,2000-2004
+2005,Forcible Rape,385,3503135,10.99,Violent,Adult,2005-2009
+2006,Forcible Rape,408,3569324,11.43,Violent,Adult,2005-2009
+2007,Forcible Rape,382,3628969,10.53,Violent,Adult,2005-2009
+2008,Forcible Rape,399,3695673,10.8,Violent,Adult,2005-2009
+2009,Forcible Rape,359,3760623,9.55,Violent,Adult,2005-2009
+2010,Forcible Rape,391,3822317,10.23,Violent,Adult,2010-2014
+2011,Forcible Rape,336,3884611,8.65,Violent,Adult,2010-2014
+2012,Forcible Rape,269,3949438,6.81,Violent,Adult,2010-2014
+2013,Forcible Rape,410,4018766,10.2,Violent,Adult,2010-2014
+2014,Forcible Rape,448,4090653,10.95,Violent,Adult,2010-2014
+2015,Forcible Rape,422,4173962,10.11,Violent,Adult,2015-2019
+2016,Forcible Rape,414,4258022,9.72,Violent,Adult,2015-2019
+1980,Robbery,948,2097530,45.2,Violent,Adult,1980-1984
+1981,Robbery,936,2159216,43.35,Violent,Adult,1980-1984
+1982,Robbery,931,2230324,41.74,Violent,Adult,1980-1984
+1983,Robbery,869,2285869,38.02,Violent,Adult,1980-1984
+1984,Robbery,746,2315719,32.21,Violent,Adult,1980-1984
+1985,Robbery,776,2346049,33.08,Violent,Adult,1985-1989
+1986,Robbery,809,2367485,34.17,Violent,Adult,1985-1989
+1987,Robbery,807,2383670,33.86,Violent,Adult,1985-1989
+1988,Robbery,718,2390616,30.03,Violent,Adult,1985-1989
+1989,Robbery,641,2409125,26.61,Violent,Adult,1985-1989
+1990,Robbery,645,2437182,26.46,Violent,Adult,1990-1994
+1991,Robbery,763,2497030,30.56,Violent,Adult,1990-1994
+1992,Robbery,741,2579930,28.72,Violent,Adult,1990-1994
+1993,Robbery,721,2667855,27.03,Violent,Adult,1990-1994
+1994,Robbery,670,2749189,24.37,Violent,Adult,1990-1994
+1995,Robbery,675,2824583,23.9,Violent,Adult,1995-1999
+1996,Robbery,603,2894909,20.83,Violent,Adult,1995-1999
+1997,Robbery,630,2966572,21.24,Violent,Adult,1995-1999
+1998,Robbery,587,3048002,19.26,Violent,Adult,1995-1999
+1999,Robbery,609,3135003,19.43,Violent,Adult,1995-1999
+2000,Robbery,532,3229650,16.47,Violent,Adult,2000-2004
+2001,Robbery,649,3315626,19.57,Violent,Adult,2000-2004
+2002,Robbery,687,3366887,20.4,Violent,Adult,2000-2004
+2003,Robbery,694,3410632,20.35,Violent,Adult,2000-2004
+2004,Robbery,647,3457311,18.71,Violent,Adult,2000-2004
+2005,Robbery,658,3503135,18.78,Violent,Adult,2005-2009
+2006,Robbery,838,3569324,23.48,Violent,Adult,2005-2009
+2007,Robbery,709,3628969,19.54,Violent,Adult,2005-2009
+2008,Robbery,705,3695673,19.08,Violent,Adult,2005-2009
+2009,Robbery,910,3760623,24.2,Violent,Adult,2005-2009
+2010,Robbery,798,3822317,20.88,Violent,Adult,2010-2014
+2011,Robbery,868,3884611,22.34,Violent,Adult,2010-2014
+2012,Robbery,773,3949438,19.57,Violent,Adult,2010-2014
+2013,Robbery,886,4018766,22.05,Violent,Adult,2010-2014
+2014,Robbery,825,4090653,20.17,Violent,Adult,2010-2014
+2015,Robbery,886,4173962,21.23,Violent,Adult,2015-2019
+2016,Robbery,858,4258022,20.15,Violent,Adult,2015-2019
+1980,Aggravated Assault,"3,029",2097530,144.41,Violent,Adult,1980-1984
+1981,Aggravated Assault,"3,300",2159216,152.83,Violent,Adult,1980-1984
+1982,Aggravated Assault,"3,066",2230324,137.47,Violent,Adult,1980-1984
+1983,Aggravated Assault,"3,247",2285869,142.05,Violent,Adult,1980-1984
+1984,Aggravated Assault,"3,400",2315719,146.82,Violent,Adult,1980-1984
+1985,Aggravated Assault,"3,544",2346049,151.06,Violent,Adult,1985-1989
+1986,Aggravated Assault,"4,025",2367485,170.01,Violent,Adult,1985-1989
+1987,Aggravated Assault,"3,682",2383670,154.47,Violent,Adult,1985-1989
+1988,Aggravated Assault,"4,429",2390616,185.27,Violent,Adult,1985-1989
+1989,Aggravated Assault,"5,362",2409125,222.57,Violent,Adult,1985-1989
+1990,Aggravated Assault,"6,221",2437182,255.25,Violent,Adult,1990-1994
+1991,Aggravated Assault,"5,969",2497030,239.04,Violent,Adult,1990-1994
+1992,Aggravated Assault,"5,627",2579930,218.11,Violent,Adult,1990-1994
+1993,Aggravated Assault,"5,814",2667855,217.93,Violent,Adult,1990-1994
+1994,Aggravated Assault,"5,554",2749189,202.02,Violent,Adult,1990-1994
+1995,Aggravated Assault,"4,860",2824583,172.06,Violent,Adult,1995-1999
+1996,Aggravated Assault,"4,444",2894909,153.51,Violent,Adult,1995-1999
+1997,Aggravated Assault,"4,267",2966572,143.84,Violent,Adult,1995-1999
+1998,Aggravated Assault,"4,527",3048002,148.52,Violent,Adult,1995-1999
+1999,Aggravated Assault,"4,847",3135003,154.61,Violent,Adult,1995-1999
+2000,Aggravated Assault,"4,267",3229650,132.12,Violent,Adult,2000-2004
+2001,Aggravated Assault,"4,498",3315626,135.66,Violent,Adult,2000-2004
+2002,Aggravated Assault,"4,178",3366887,124.09,Violent,Adult,2000-2004
+2003,Aggravated Assault,"3,950",3410632,115.81,Violent,Adult,2000-2004
+2004,Aggravated Assault,"4,303",3457311,124.46,Violent,Adult,2000-2004
+2005,Aggravated Assault,"4,633",3503135,132.25,Violent,Adult,2005-2009
+2006,Aggravated Assault,"4,733",3569324,132.6,Violent,Adult,2005-2009
+2007,Aggravated Assault,"4,315",3628969,118.9,Violent,Adult,2005-2009
+2008,Aggravated Assault,"4,583",3695673,124.01,Violent,Adult,2005-2009
+2009,Aggravated Assault,"4,901",3760623,130.32,Violent,Adult,2005-2009
+2010,Aggravated Assault,"4,652",3822317,121.71,Violent,Adult,2010-2014
+2011,Aggravated Assault,"4,272",3884611,109.97,Violent,Adult,2010-2014
+2012,Aggravated Assault,"3,846",3949438,97.38,Violent,Adult,2010-2014
+2013,Aggravated Assault,"3,908",4018766,97.24,Violent,Adult,2010-2014
+2014,Aggravated Assault,"4,093",4090653,100.06,Violent,Adult,2010-2014
+2015,Aggravated Assault,"4,399",4173962,105.39,Violent,Adult,2015-2019
+2016,Aggravated Assault,"4,931",4258022,115.8,Violent,Adult,2015-2019
+1980,Homicide,9,379611,2.37,Violent,Juvenile,1980-1984
+1981,Homicide,8,380535,2.1,Violent,Juvenile,1980-1984
+1982,Homicide,10,379180,2.64,Violent,Juvenile,1980-1984
+1983,Homicide,5,378152,1.32,Violent,Juvenile,1980-1984
+1984,Homicide,11,374515,2.94,Violent,Juvenile,1980-1984
+1985,Homicide,17,372734,4.56,Violent,Juvenile,1985-1989
+1986,Homicide,16,369585,4.33,Violent,Juvenile,1985-1989
+1987,Homicide,17,367668,4.62,Violent,Juvenile,1985-1989
+1988,Homicide,14,360255,3.89,Violent,Juvenile,1985-1989
+1989,Homicide,15,355354,4.22,Violent,Juvenile,1985-1989
+1990,Homicide,22,355862,6.18,Violent,Juvenile,1990-1994
+1991,Homicide,26,367231,7.08,Violent,Juvenile,1990-1994
+1992,Homicide,22,381550,5.77,Violent,Juvenile,1990-1994
+1993,Homicide,37,396675,9.33,Violent,Juvenile,1990-1994
+1994,Homicide,16,411405,3.89,Violent,Juvenile,1990-1994
+1995,Homicide,31,425421,7.29,Violent,Juvenile,1995-1999
+1996,Homicide,31,438447,7.07,Violent,Juvenile,1995-1999
+1997,Homicide,18,451896,3.98,Violent,Juvenile,1995-1999
+1998,Homicide,31,467035,6.64,Violent,Juvenile,1995-1999
+1999,Homicide,22,482879,4.56,Violent,Juvenile,1995-1999
+2000,Homicide,8,499995,1.6,Violent,Juvenile,2000-2004
+2001,Homicide,15,510740,2.94,Violent,Juvenile,2000-2004
+2002,Homicide,10,515931,1.94,Violent,Juvenile,2000-2004
+2003,Homicide,8,518561,1.54,Violent,Juvenile,2000-2004
+2004,Homicide,8,518964,1.54,Violent,Juvenile,2000-2004
+2005,Homicide,6,519729,1.15,Violent,Juvenile,2005-2009
+2006,Homicide,12,523931,2.29,Violent,Juvenile,2005-2009
+2007,Homicide,8,527950,1.52,Violent,Juvenile,2005-2009
+2008,Homicide,5,529031,0.95,Violent,Juvenile,2005-2009
+2009,Homicide,17,531241,3.2,Violent,Juvenile,2005-2009
+2010,Homicide,8,534850,1.5,Violent,Juvenile,2010-2014
+2011,Homicide,6,541193,1.11,Violent,Juvenile,2010-2014
+2012,Homicide,2,548008,0.36,Violent,Juvenile,2010-2014
+2013,Homicide,6,557738,1.08,Violent,Juvenile,2010-2014
+2014,Homicide,14,569052,2.46,Violent,Juvenile,2010-2014
+2015,Homicide,4,582108,0.69,Violent,Juvenile,2015-2019
+2016,Homicide,8,594505,1.35,Violent,Juvenile,2015-2019
+1980,Forcible Rape,56,379611,14.75,Violent,Juvenile,1980-1984
+1981,Forcible Rape,59,380535,15.5,Violent,Juvenile,1980-1984
+1982,Forcible Rape,55,379180,14.5,Violent,Juvenile,1980-1984
+1983,Forcible Rape,71,378152,18.78,Violent,Juvenile,1980-1984
+1984,Forcible Rape,85,374515,22.7,Violent,Juvenile,1980-1984
+1985,Forcible Rape,73,372734,19.59,Violent,Juvenile,1980-1984
+1986,Forcible Rape,96,369585,25.98,Violent,Juvenile,1985-1989
+1987,Forcible Rape,70,367668,19.04,Violent,Juvenile,1985-1989
+1988,Forcible Rape,73,360255,20.26,Violent,Juvenile,1985-1989
+1989,Forcible Rape,76,355354,21.39,Violent,Juvenile,1985-1989
+1990,Forcible Rape,96,355862,26.98,Violent,Juvenile,1985-1989
+1991,Forcible Rape,94,367231,25.6,Violent,Juvenile,1990-1994
+1992,Forcible Rape,75,381550,19.66,Violent,Juvenile,1990-1994
+1993,Forcible Rape,84,396675,21.18,Violent,Juvenile,1990-1994
+1994,Forcible Rape,78,411405,18.96,Violent,Juvenile,1990-1994
+1995,Forcible Rape,77,425421,18.1,Violent,Juvenile,1990-1994
+1996,Forcible Rape,92,438447,20.98,Violent,Juvenile,1995-1999
+1997,Forcible Rape,248,451896,54.88,Violent,Juvenile,1995-1999
+1998,Forcible Rape,235,467035,50.32,Violent,Juvenile,1995-1999
+1999,Forcible Rape,201,482879,41.63,Violent,Juvenile,1995-1999
+2000,Forcible Rape,111,499995,22.2,Violent,Juvenile,1995-1999
+2001,Forcible Rape,98,510740,19.19,Violent,Juvenile,2000-2004
+2002,Forcible Rape,110,515931,21.32,Violent,Juvenile,2000-2004
+2003,Forcible Rape,84,518561,16.2,Violent,Juvenile,2000-2004
+2004,Forcible Rape,80,518964,15.42,Violent,Juvenile,2000-2004
+2005,Forcible Rape,95,519729,18.28,Violent,Juvenile,2000-2004
+2006,Forcible Rape,73,523931,13.93,Violent,Juvenile,2005-2009
+2007,Forcible Rape,55,527950,10.42,Violent,Juvenile,2005-2009
+2008,Forcible Rape,57,529031,10.77,Violent,Juvenile,2005-2009
+2009,Forcible Rape,68,531241,12.8,Violent,Juvenile,2005-2009
+2010,Forcible Rape,58,534850,10.84,Violent,Juvenile,2005-2009
+2011,Forcible Rape,54,541193,9.98,Violent,Juvenile,2010-2014
+2012,Forcible Rape,41,548008,7.48,Violent,Juvenile,2010-2014
+2013,Forcible Rape,91,557738,16.32,Violent,Juvenile,2010-2014
+2014,Forcible Rape,73,569052,12.83,Violent,Juvenile,2010-2014
+2015,Forcible Rape,101,582108,17.35,Violent,Juvenile,2015-2019
+2016,Forcible Rape,66,594505,11.1,Violent,Juvenile,2015-2019
+1980,Robbery,305,379611,80.35,Violent,Juvenile,2010-2014
+1981,Robbery,232,380535,60.97,Violent,Juvenile,1980-1984
+1982,Robbery,252,379180,66.46,Violent,Juvenile,1980-1984
+1983,Robbery,214,378152,56.59,Violent,Juvenile,1980-1984
+1984,Robbery,222,374515,59.28,Violent,Juvenile,1980-1984
+1985,Robbery,254,372734,68.15,Violent,Juvenile,1985-1989
+1986,Robbery,262,369585,70.89,Violent,Juvenile,1985-1989
+1987,Robbery,200,367668,54.4,Violent,Juvenile,1985-1989
+1988,Robbery,168,360255,46.63,Violent,Juvenile,1985-1989
+1989,Robbery,246,355354,69.23,Violent,Juvenile,1985-1989
+1990,Robbery,234,355862,65.76,Violent,Juvenile,1990-1994
+1991,Robbery,256,367231,69.71,Violent,Juvenile,1990-1994
+1992,Robbery,320,381550,83.87,Violent,Juvenile,1990-1994
+1993,Robbery,304,396675,76.64,Violent,Juvenile,1990-1994
+1994,Robbery,382,411405,92.85,Violent,Juvenile,1990-1994
+1995,Robbery,276,425421,64.88,Violent,Juvenile,1995-1999
+1996,Robbery,311,438447,70.93,Violent,Juvenile,1995-1999
+1997,Robbery,367,451896,81.21,Violent,Juvenile,1995-1999
+1998,Robbery,272,467035,58.24,Violent,Juvenile,1995-1999
+1999,Robbery,235,482879,48.67,Violent,Juvenile,1995-1999
+2000,Robbery,239,499995,47.8,Violent,Juvenile,2000-2004
+2001,Robbery,246,510740,48.17,Violent,Juvenile,2000-2004
+2002,Robbery,208,515931,40.32,Violent,Juvenile,2000-2004
+2003,Robbery,203,518561,39.15,Violent,Juvenile,2000-2004
+2004,Robbery,186,518964,35.84,Violent,Juvenile,2000-2004
+2005,Robbery,204,519729,39.25,Violent,Juvenile,2005-2009
+2006,Robbery,218,523931,41.61,Violent,Juvenile,2005-2009
+2007,Robbery,171,527950,32.39,Violent,Juvenile,2005-2009
+2008,Robbery,237,529031,44.8,Violent,Juvenile,2005-2009
+2009,Robbery,221,531241,41.6,Violent,Juvenile,2005-2009
+2010,Robbery,152,534850,28.42,Violent,Juvenile,2010-2014
+2011,Robbery,108,541193,19.96,Violent,Juvenile,2010-2014
+2012,Robbery,135,548008,24.63,Violent,Juvenile,2010-2014
+2013,Robbery,131,557738,23.49,Violent,Juvenile,2010-2014
+2014,Robbery,120,569052,21.09,Violent,Juvenile,2010-2014
+2015,Robbery,136,582108,23.36,Violent,Juvenile,2015-2019
+2016,Robbery,129,594505,21.7,Violent,Juvenile,2015-2019
+1980,Aggravated Assault,637,379611,167.8,Violent,Juvenile,1980-1984
+1981,Aggravated Assault,673,380535,176.86,Violent,Juvenile,1980-1984
+1982,Aggravated Assault,630,379180,166.15,Violent,Juvenile,1980-1984
+1983,Aggravated Assault,781,378152,206.53,Violent,Juvenile,1980-1984
+1984,Aggravated Assault,788,374515,210.41,Violent,Juvenile,1980-1984
+1985,Aggravated Assault,795,372734,213.29,Violent,Juvenile,1985-1989
+1986,Aggravated Assault,831,369585,224.85,Violent,Juvenile,1985-1989
+1987,Aggravated Assault,716,367668,194.74,Violent,Juvenile,1985-1989
+1988,Aggravated Assault,747,360255,207.35,Violent,Juvenile,1985-1989
+1989,Aggravated Assault,"1,052",355354,296.04,Violent,Juvenile,1985-1989
+1990,Aggravated Assault,"1,204",355862,338.33,Violent,Juvenile,1990-1994
+1991,Aggravated Assault,"1,458",367231,397.03,Violent,Juvenile,1990-1994
+1992,Aggravated Assault,"1,416",381550,371.12,Violent,Juvenile,1990-1994
+1993,Aggravated Assault,"1,390",396675,350.41,Violent,Juvenile,1990-1994
+1994,Aggravated Assault,"1,218",411405,296.06,Violent,Juvenile,1990-1994
+1995,Aggravated Assault,"1,062",425421,249.64,Violent,Juvenile,1995-1999
+1996,Aggravated Assault,766,438447,174.71,Violent,Juvenile,1995-1999
+1997,Aggravated Assault,933,451896,206.46,Violent,Juvenile,1995-1999
+1998,Aggravated Assault,939,467035,201.06,Violent,Juvenile,1995-1999
+1999,Aggravated Assault,987,482879,204.4,Violent,Juvenile,1995-1999
+2000,Aggravated Assault,778,499995,155.6,Violent,Juvenile,2000-2004
+2001,Aggravated Assault,875,510740,171.32,Violent,Juvenile,2000-2004
+2002,Aggravated Assault,830,515931,160.87,Violent,Juvenile,2000-2004
+2003,Aggravated Assault,732,518561,141.16,Violent,Juvenile,2000-2004
+2004,Aggravated Assault,855,518964,164.75,Violent,Juvenile,2000-2004
+2005,Aggravated Assault,867,519729,166.82,Violent,Juvenile,2005-2009
+2006,Aggravated Assault,799,523931,152.5,Violent,Juvenile,2005-2009
+2007,Aggravated Assault,686,527950,129.94,Violent,Juvenile,2005-2009
+2008,Aggravated Assault,704,529031,133.07,Violent,Juvenile,2005-2009
+2009,Aggravated Assault,638,531241,120.1,Violent,Juvenile,2005-2009
+2010,Aggravated Assault,629,534850,117.6,Violent,Juvenile,2010-2014
+2011,Aggravated Assault,454,541193,83.89,Violent,Juvenile,2010-2014
+2012,Aggravated Assault,399,548008,72.81,Violent,Juvenile,2010-2014
+2013,Aggravated Assault,365,557738,65.44,Violent,Juvenile,2010-2014
+2014,Aggravated Assault,375,569052,65.9,Violent,Juvenile,2010-2014
+2015,Aggravated Assault,424,582108,72.84,Violent,Juvenile,2015-2019
+2016,Aggravated Assault,469,594505,78.89,Violent,Juvenile,2015-2019
+1980,Weapon,401,379611,105.63,Weapon,Juvenile,1980-1984
+1981,Weapon,420,380535,110.37,Weapon,Juvenile,1980-1984
+1982,Weapon,576,379180,151.91,Weapon,Juvenile,1980-1984
+1983,Weapon,592,378152,156.55,Weapon,Juvenile,1980-1984
+1984,Weapon,645,374515,172.22,Weapon,Juvenile,1980-1984
+1985,Weapon,694,372734,186.19,Weapon,Juvenile,1985-1989
+1986,Weapon,725,369585,196.17,Weapon,Juvenile,1985-1989
+1987,Weapon,589,367668,160.2,Weapon,Juvenile,1985-1989
+1988,Weapon,583,360255,161.83,Weapon,Juvenile,1985-1989
+1989,Weapon,724,355354,203.74,Weapon,Juvenile,1985-1989
+1990,Weapon,806,355862,226.49,Weapon,Juvenile,1990-1994
+1991,Weapon,975,367231,265.5,Weapon,Juvenile,1990-1994
+1992,Weapon,"1,142",381550,299.31,Weapon,Juvenile,1990-1994
+1993,Weapon,"1,236",396675,311.59,Weapon,Juvenile,1990-1994
+1994,Weapon,"1,112",411405,270.29,Weapon,Juvenile,1990-1994
+1995,Weapon,925,425421,217.43,Weapon,Juvenile,1995-1999
+1996,Weapon,930,438447,212.11,Weapon,Juvenile,1995-1999
+1997,Weapon,"1,079",451896,238.77,Weapon,Juvenile,1995-1999
+1998,Weapon,"1,031",467035,220.75,Weapon,Juvenile,1995-1999
+1999,Weapon,926,482879,191.77,Weapon,Juvenile,1995-1999
+2000,Weapon,821,499995,164.2,Weapon,Juvenile,2000-2004
+2001,Weapon,723,510740,141.56,Weapon,Juvenile,2000-2004
+2002,Weapon,738,515931,143.04,Weapon,Juvenile,2000-2004
+2003,Weapon,713,518561,137.5,Weapon,Juvenile,2000-2004
+2004,Weapon,743,518964,143.17,Weapon,Juvenile,2000-2004
+2005,Weapon,755,519729,145.27,Weapon,Juvenile,2005-2009
+2006,Weapon,726,523931,138.57,Weapon,Juvenile,2005-2009
+2007,Weapon,670,527950,126.91,Weapon,Juvenile,2005-2009
+2008,Weapon,617,529031,116.63,Weapon,Juvenile,2005-2009
+2009,Weapon,495,531241,93.18,Weapon,Juvenile,2005-2009
+2010,Weapon,458,534850,85.63,Weapon,Juvenile,2010-2014
+2011,Weapon,431,541193,79.64,Weapon,Juvenile,2010-2014
+2012,Weapon,341,548008,62.23,Weapon,Juvenile,2010-2014
+2013,Weapon,303,557738,54.33,Weapon,Juvenile,2010-2014
+2014,Weapon,338,569052,59.4,Weapon,Juvenile,2010-2014
+2015,Weapon,319,582108,54.8,Weapon,Juvenile,2015-2019
+2016,Weapon,305,594505,51.3,Weapon,Juvenile,2015-2019
+1980,Weapon,"2,492",2097530,118.81,Weapon,Adult,1980-1984
+1981,Weapon,"2,617",2159216,121.2,Weapon,Adult,1980-1984
+1982,Weapon,"3,115",2230324,139.67,Weapon,Adult,1980-1984
+1983,Weapon,"3,260",2285869,142.62,Weapon,Adult,1980-1984
+1984,Weapon,"3,101",2315719,133.91,Weapon,Adult,1980-1984
+1985,Weapon,"3,099",2346049,132.09,Weapon,Adult,1985-1989
+1986,Weapon,"3,153",2367485,133.18,Weapon,Adult,1985-1989
+1987,Weapon,"2,641",2383670,110.8,Weapon,Adult,1985-1989
+1988,Weapon,"2,632",2390616,110.1,Weapon,Adult,1985-1989
+1989,Weapon,"2,631",2409125,109.21,Weapon,Adult,1985-1989
+1990,Weapon,"2,703",2437182,110.91,Weapon,Adult,1990-1994
+1991,Weapon,"2,799",2497030,112.09,Weapon,Adult,1990-1994
+1992,Weapon,"2,903",2579930,112.52,Weapon,Adult,1990-1994
+1993,Weapon,"3,131",2667855,117.36,Weapon,Adult,1990-1994
+1994,Weapon,"3,053",2749189,111.05,Weapon,Adult,1990-1994
+1995,Weapon,"2,572",2824583,91.06,Weapon,Adult,1995-1999
+1996,Weapon,"2,578",2894909,89.05,Weapon,Adult,1995-1999
+1997,Weapon,"2,440",2966572,82.25,Weapon,Adult,1995-1999
+1998,Weapon,"2,465",3048002,80.87,Weapon,Adult,1995-1999
+1999,Weapon,"2,253",3135003,71.87,Weapon,Adult,1995-1999
+2000,Weapon,"2,076",3229650,64.28,Weapon,Adult,2000-2004
+2001,Weapon,"1,882",3315626,56.76,Weapon,Adult,2000-2004
+2002,Weapon,"1,725",3366887,51.23,Weapon,Adult,2000-2004
+2003,Weapon,"1,533",3410632,44.95,Weapon,Adult,2000-2004
+2004,Weapon,"1,814",3457311,52.47,Weapon,Adult,2000-2004
+2005,Weapon,"1,686",3503135,48.13,Weapon,Adult,2005-2009
+2006,Weapon,"1,695",3569324,47.49,Weapon,Adult,2005-2009
+2007,Weapon,"1,736",3628969,47.84,Weapon,Adult,2005-2009
+2008,Weapon,"1,590",3695673,43.02,Weapon,Adult,2005-2009
+2009,Weapon,"1,440",3760623,38.29,Weapon,Adult,2005-2009
+2010,Weapon,"1,373",3822317,35.92,Weapon,Adult,2010-2014
+2011,Weapon,"1,393",3884611,35.86,Weapon,Adult,2010-2014
+2012,Weapon,"1,468",3949438,37.17,Weapon,Adult,2010-2014
+2013,Weapon,"1,547",4018766,38.49,Weapon,Adult,2010-2014
+2014,Weapon,"1,840",4090653,44.98,Weapon,Adult,2010-2014
+2015,Weapon,"1,950",4173962,46.72,Weapon,Adult,2015-2019
+2016,Weapon,"2,137",4258022,50.19,Weapon,Adult,2015-2019
